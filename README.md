@@ -1,8 +1,8 @@
 # DAG Weekly Challenges (Spring 2021)
 
-Welcome to the weekly challenges of the <a href="https://www.dag-epfl.ch/">Data Analytics Group</a> at EPFL!
+Welcome to the weekly challenges of the <a href="https://www.dag-epfl.ch/" target="_blank">Data Analytics Group</a> at EPFL!
 
-Each week, we will propose a short coding or data science problem, with prizes up for grabs!.
+Each week, we will propose a short coding or data science problem, with prizes up for grabs!
 
 
 ## How to do the challenges
