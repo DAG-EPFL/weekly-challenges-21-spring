@@ -8,7 +8,7 @@ OW	Obwalden
 NW	Nidwalden
 GL	Glarus
 ZG	Zug
-FR	Fribourg
+FR	Fribourg / Freiburg
 SO	Solothurn
 BS	Basel-Stadt
 BL	Basel-Landschaft
