@@ -37,7 +37,7 @@ Google's <a href="https://colab.research.google.com/">Colab</a> is a similar sol
 
 1. Sign in to [https://colab.research.google.com](https://colab.research.google.com).
 2. When prompted which file to open, select the *GitHub* tab and enter https://github.com/DAG-EPFL/weekly-challenges-21-spring as the GitHub URL. You will be able to select which notebook you want to open.
-3. Start coding!
+3. Start coding! If the challenge includes a dataset, you will have to manually upload it into the correct destination in the "File" pane on the left side.
 4. We will release new challenges every week. In order to get them, open a new notebook and follow the steps above to select an other challenge.
 
 
